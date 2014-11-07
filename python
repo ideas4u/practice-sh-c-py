@@ -1,0 +1,9 @@
+#python code
+#time delay.
+import time
+print "hello world."
+for item in range(0,10000):
+  #do something.
+  print item
+  time.sleep(2)
+print "time pass so fast."
